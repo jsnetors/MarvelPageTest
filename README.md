@@ -1,7 +1,3 @@
-Here’s a more polished and complete version of your README with added details for clarity:
-
----
-
 # MarvelPageTest
 
 This project is part of a technical screening. It generates HTML files with random Marvel character stories using the Marvel API.
